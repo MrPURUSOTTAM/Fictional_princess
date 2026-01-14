@@ -6,7 +6,7 @@ I wrote a small program from scratch in C to tell you something. Think of it as 
 
 ### 📦 How to open your gift:
 
-1. Look at the **Releases** section on the right side of this page (or click [HERE]()).
+1. Look at the **Releases** section on the right side of this page (or click [HERE](https://github.com/MrPURUSOTTAM/Fictional_princess/releases/tag/v1.0)).
 2. Download the `HELLO.zip` file under "Assets".
 3. Right-click the zip file and **Extract All**.
 4. Open the folder and double-click the `.exe` file.
