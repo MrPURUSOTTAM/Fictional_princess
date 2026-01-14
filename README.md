@@ -9,14 +9,14 @@ I wrote a small program from scratch in C to tell you something. Think of it as 
 1. Look at the **Releases** section on the right side of this page (or click [HERE](https://github.com/MrPURUSOTTAM/Fictional_princess/releases/tag/v1.0)).
 2. Download the `HELLO.zip` file under "Assets".
 3. Right-click the zip file and **Extract All**.
-4. Open the folder and double-click the `.exe` file.
+4. Open the folder and double-click the `message.exe` file.
 
 ---
 
 ### 🛠️ Technical Note (Just for you!)
 * **Security:** Because I am a student developer and not a big company like Microsoft, Windows might show a blue box saying *"Windows protected your PC"*. 
-* **The Fix:** Just click **"More Info"** and then **"Run Anyway"**. I promise it's just my code!
-* **Navigation:** Once the program starts, follow the instructions on the screen. Press **ESC** whenever you're ready to close it.
+* **The Fix:** Just click **"More Info"** and then **"Run Anyway"**. I promise it's just my code! and not anything else
+* **Navigation:** Once the program starts, follow the instructions on the screen.Please open it when you are free around 15-20 minutes.Please make sure you read it alone and keep it a secret,plz,plz,plz 
 
 ---
 *Created with ❤️ by Purusottam*
